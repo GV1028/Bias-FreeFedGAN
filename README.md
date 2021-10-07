@@ -13,7 +13,7 @@ We show the results of both federated SpecGAN and Bias-Free Federated SpecGAN on
 
 We consider two classes "Zero" and "Eight" in SC09 dataset. Client 0 has datapoints of class "Zero" and Clients 1 and 2 have datapoints of class "Eight". Note that in the normal Federated version, the federated model is not able to generate datapoints of the minority class "Zero",  while in the Bias-Free Federated version, the federated model can also synthesize minority classes.
 
-- [Federated SpecGAN](https://drive.google.com/drive/folders/1GVUNwmv4sY-VL6BYGZvFwTZ3Y0Wxd9pv?usp=sharing)
+- [Federated SpecGAN](https://drive.google.com/drive/folders/1afWJIagPLt097dssh4zSiEJ7z2stFKnK?usp=sharing)
 - [Bias-Free Federated SpecGAN]()
 
 ### Mini Speech Commands
@@ -22,7 +22,5 @@ We consider two classes "Down" and "Up" in Mini Speech Commands dataset. Client 
 
 
 - [Federated SpecGAN](https://drive.google.com/drive/folders/1GVUNwmv4sY-VL6BYGZvFwTZ3Y0Wxd9pv?usp=sharing)
-- [Bias-Free Federated SpecGAN]()
+- [Bias-Free Federated SpecGAN](https://drive.google.com/drive/folders/1PoDpMVQMVdlt-Olf_W_ZaW1nA970zTGV?usp=sharing)
 
-
-### MNI
